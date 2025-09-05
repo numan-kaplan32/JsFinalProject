@@ -31,3 +31,11 @@ React tabanlı bir uygulama olan bu proje, 38 farklı hesaplama işlemini kullan
 - Node.js (v14 veya üzeri)
 
 - npm veya yarn
+
+# Kurulum
+
+1. Bu repository'yi klonlayın: git clone https://github.com/numan-kaplan32/JsFinalProject.git
+
+2.Proje dizinine gidin:cd JsFinalProject
+
+3.Uygulamayı başlatın:npm run dev
