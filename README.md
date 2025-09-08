@@ -32,7 +32,7 @@ React tabanlı bir uygulama olan bu proje, 38 farklı hesaplama işlemini kullan
 
 - Node.js (v14 veya üzeri)
 
-- npm veya yarn
+- npm
 
 # Kurulum
 
