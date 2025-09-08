@@ -8,7 +8,9 @@ React tabanlı bir uygulama olan bu proje, 38 farklı hesaplama işlemini kullan
 
 - Karekök, üssü alma, mutlak değer gibi matematiksel işlemler
 
-- KDV hesaplama, faiz hesaplama gibi finansal işlemler
+- Çeşitli fizik hesaplamaları
+
+- Temel geometrik hesaplamalar
 
 - Kullanıcı dostu ve responsive tasarım
 
